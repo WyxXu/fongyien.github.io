@@ -1,0 +1,5 @@
+<ruby> <span class="word gasoek">冇</span> <rp >(</rp><rt class="gentinum ruby">mau<sup>11</sup> </rt><rp>)</rp> </ruby>
+ <ruby> <span class="word gasoek">水</span> <rp >(</rp><rt class="gentinum ruby">sui<sup>31</sup> </rt><rp>)</rp> </ruby>
+<ruby> <span class="word gasoek">唔</span> <rp >(</rp><rt class="gentinum ruby">m<sup>35</sup></rt><rp>)</rp> </ruby>
+<ruby> <span class="word gasoek">行</span> <rp >(</rp><rt class="gentinum ruby">hang<sup>11</sup></rt><rp>)</rp> </ruby>
+<ruby> <span class="word gasoek">船</span> <rp >(</rp><rt class="gentinum ruby">son<sup>11</sup></rt><rp>)</rp> </ruby>

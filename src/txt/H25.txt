@@ -1,0 +1,7 @@
+<ruby> <span class="word gasoek">全</span> <rp >(</rp><rt class="gentinum ruby">chhien<sup>31</sup> </rt><rp>)</rp> </ruby>
+ <ruby> <span class="word gasoek">钢</span> <rp >(</rp><rt class="gentinum ruby">kong<sup>52</sup> </rt><rp>)</rp> </ruby>
+<ruby> <span class="word gasoek">都</span> <rp >(</rp><rt class="gentinum ruby">tun<sup>33</sup></rt><rp>)</rp> </ruby>
+<ruby> <span class="word gasoek">系</span> <rp >(</rp><rt class="gentinum ruby">he<sup>52</sup></rt><rp>)</rp> </ruby>
+<ruby> <span class="word gasoek">禾</span> <rp >(</rp><rt class="gentinum ruby">vo<sup>11</sup></rt><rp>)</rp> </ruby>
+<ruby> <span class="word gasoek">镰</span> <rp >(</rp><rt class="gentinum ruby">liang<sup>11</sup></rt><rp>)</rp> </ruby>
+<ruby> <span class="word gasoek">铁</span> <rp >(</rp><rt class="gentinum ruby">thiek<sup>2</sup></rt><rp>)</rp> </ruby>

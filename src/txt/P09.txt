@@ -1,0 +1,5 @@
+<ruby> <span class="word gasoek">洒</span> <rp >(</rp><rt class="gentinum ruby">saa<sup>2</sup></rt><rp>)</rp> </ruby>
+<ruby> <span class="word gasoek">手</span> <rp >(</rp><rt class="gentinum ruby">sau<sup>2</sup></rt><rp>)</rp> </ruby>
+<ruby> <span class="word gasoek">兼</span> <rp >(</rp><rt class="gentinum ruby">gim<sup>1</sup></rt><rp>)</rp> </ruby>
+<ruby> <span class="word gasoek">拧</span> <rp >(</rp><rt class="gentinum ruby">ning<sup>3</sup></rt><rp>)</rp> </ruby>
+<ruby> <span class="word gasoek">头</span> <rp >(</rp><rt class="gentinum ruby">tau<sup>2</sup></rt><rp>)</rp> </ruby>

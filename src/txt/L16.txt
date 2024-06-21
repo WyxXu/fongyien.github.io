@@ -1,0 +1,6 @@
+<ruby> <span class="word gasoek">无</span> <rp >(</rp><rt class="gentinum ruby">bho<sup>5</sup></rt><rp>)</rp> </ruby>
+<ruby> <span class="word gasoek">念</span> <rp >(</rp><rt class="gentinum ruby">niang<sup>5</sup></rt><rp>)</rp> </ruby>
+<ruby> <span class="word gasoek">鲁</span> <rp >(</rp><rt class="gentinum ruby">lu<sup>4</sup></rt><rp>)</rp> </ruby>
+<ruby> <span class="word gasoek">薯</span> <rp >(</rp><rt class="gentinum ruby">zu<sup>1</sup></rt><rp>)</rp> </ruby>
+<ruby> <span class="word gasoek">掘</span> <rp >(</rp><rt class="gentinum ruby">ku<sup>1</sup></rt><rp>)</rp> </ruby>
+<ruby> <span class="word gasoek">啦</span> <rp >(</rp><rt class="gentinum ruby">la<sup>5</sup></rt><rp>)</rp> </ruby>

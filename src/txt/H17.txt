@@ -1,0 +1,2 @@
+<ruby> <span class="word gasoek">嘭</span> <rp >(</rp><rt class="gentinum ruby">phang<sup>52</sup> </rt><rp>)</rp> </ruby>
+ <ruby> <span class="word gasoek">风</span> <rp >(</rp><rt class="gentinum ruby">fung<sup>33</sup> </rt><rp>)</rp> </ruby>

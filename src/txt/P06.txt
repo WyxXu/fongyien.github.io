@@ -1,0 +1,3 @@
+<ruby> <span class="word gasoek">湿</span> <rp >(</rp><rt class="gentinum ruby">sap<sup>1</sup></rt><rp>)</rp> </ruby>
+<ruby> <span class="word gasoek">湿</span> <rp >(</rp><rt class="gentinum ruby">sap<sup>1</sup></rt><rp>)</rp> </ruby>
+<ruby> <span class="word gasoek">碎</span> <rp >(</rp><rt class="gentinum ruby">seoi<sup>3</sup></rt><rp>)</rp> </ruby>

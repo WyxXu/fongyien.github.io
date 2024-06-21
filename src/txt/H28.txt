@@ -1,0 +1,2 @@
+<ruby> <span class="word gasoek">屙</span> <rp >(</rp><rt class="gentinum ruby">o<sup>31</sup> </rt><rp>)</rp> </ruby>
+<ruby> <span class="word gasoek">壳</span> <rp >(</rp><rt class="gentinum ruby">hok<sup>52</sup> </rt><rp>)</rp></ruby>

@@ -1,0 +1,5 @@
+<ruby> <span class="word gasoek">疯</span> <rp >(</rp><rt class="gentinum ruby">ngong<sup>1</sup></rt><rp>)</rp> </ruby>
+<ruby> <span class="word gasoek">人</span> <rp >(</rp><rt class="gentinum ruby">nang<sup>5</sup></rt><rp>)</rp> </ruby>
+<ruby> <span class="word gasoek">没</span> <rp >(</rp><rt class="gentinum ruby">bho<sup>5</sup></rt><rp>)</rp> </ruby>
+<ruby> <span class="word gasoek">药</span> <rp >(</rp><rt class="gentinum ruby">io<sup>6</sup></rt><rp>)</rp> </ruby>
+<ruby> <span class="word gasoek">医</span> <rp >(</rp><rt class="gentinum ruby">i<sup>1</sup></rt><rp>)</rp> </ruby>

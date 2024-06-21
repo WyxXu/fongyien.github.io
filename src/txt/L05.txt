@@ -1,0 +1,8 @@
+<ruby> <span class="word gasoek">害</span> <rp >(</rp><rt class="gentinum ruby">hai<sup>6</sup></rt><rp>)</rp> </ruby>
+<ruby> <span class="word gasoek">我</span> <rp >(</rp><rt class="gentinum ruby">wua<sup>7</sup></rt><rp>)</rp> </ruby>
+<ruby> <span class="word gasoek">笑</span> <rp >(</rp><rt class="gentinum ruby">qio<sup>3</sup></rt><rp>)</rp> </ruby>
+<ruby> <span class="word gasoek">裙</span> <rp >(</rp><rt class="gentinum ruby">gung<sup>5</sup></rt><rp>)</rp> </ruby>
+<ruby> <span class="word gasoek">湿</span> <rp >(</rp><rt class="gentinum ruby">dam<sup>5</sup></rt><rp>)</rp> </ruby>
+<ruby> <span class="word gasoek">没</span> <rp >(</rp><rt class="gentinum ruby">bho<sup>5</sup></rt><rp>)</rp> </ruby>
+<ruby> <span class="word gasoek">处</span> <rp >(</rp><rt class="gentinum ruby">jia<sup>7</sup></rt><rp>)</rp> </ruby>
+<ruby> <span class="word gasoek">凉</span> <rp >(</rp><rt class="gentinum ruby">liang<sup>5</sup></rt><rp>)</rp> </ruby>

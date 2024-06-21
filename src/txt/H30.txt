@@ -1,0 +1,5 @@
+<ruby> <span class="word gasoek">蛇</span> <rp >(</rp><rt class="gentinum ruby">sa<sup>11</sup> </rt><rp>)</rp> </ruby>
+<ruby> <span class="word gasoek">过</span> <rp >(</rp><rt class="gentinum ruby">ko<sup>52</sup> </rt><rp>)</rp> </ruby>
+<ruby> <span class="word gasoek">正</span> <rp >(</rp><rt class="gentinum ruby">chang<sup>52</sup></rt><rp>)</rp> </ruby>
+<ruby> <span class="word gasoek">打</span> <rp >(</rp><rt class="gentinum ruby">ta<sup>31</sup></rt><rp>)</rp> </ruby>
+<ruby> <span class="word gasoek">棍</span> <rp >(</rp><rt class="gentinum ruby">kun<sup>52</sup></rt><rp>)</rp> </ruby>

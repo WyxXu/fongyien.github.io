@@ -1,0 +1,3 @@
+<ruby> <span class="word gasoek">鬼</span> <rp >(</rp><rt class="gentinum ruby">gui<sup>2</sup></rt><rp>)</rp> </ruby>
+<ruby> <span class="word gasoek">拿</span> <rp >(</rp><rt class="gentinum ruby">na<sup>7</sup></rt><rp>)</rp> </ruby>
+<ruby> <span class="word gasoek">鲁</span> <rp >(</rp><rt class="gentinum ruby">lu<sup>4</sup></rt><rp>)</rp> </ruby>

@@ -1,0 +1,4 @@
+<ruby> <span class="word gasoek">掂</span> <rp >(</rp><rt class="gentinum ruby">dim<sup>3</sup></rt><rp>)</rp> </ruby>
+<ruby> <span class="word gasoek">过</span> <rp >(</rp><rt class="gentinum ruby">gwo<sup>3</sup></rt><rp>)</rp> </ruby>
+<ruby> <span class="word gasoek">碌</span> <rp >(</rp><rt class="gentinum ruby">luk<sup>1</sup></rt><rp>)</rp> </ruby>
+<ruby> <span class="word gasoek">蔗</span> <rp >(</rp><rt class="gentinum ruby">ze<sup>3</sup></rt><rp>)</rp> </ruby>

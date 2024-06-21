@@ -1,0 +1,2 @@
+<ruby> <span class="word gasoek">眼</span> <rp >(</rp><rt class="gentinum ruby">ngan<sup>31</sup> </rt><rp>)</rp> </ruby>
+<ruby> <span class="word gasoek">汁</span> <rp >(</rp><rt class="gentinum ruby">chiuk<sup>11</sup> </rt><rp>)</rp> </ruby>

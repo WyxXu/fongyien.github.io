@@ -1,0 +1,7 @@
+<ruby> <span class="word gasoek">共</span> <rp >(</rp><rt class="gentinum ruby">gong<sup>6</sup></rt><rp>)</rp> </ruby>
+<ruby> <span class="word gasoek">钱</span> <rp >(</rp><rt class="gentinum ruby">ji<sup>5</sup></rt><rp>)</rp> </ruby>
+<ruby> <span class="word gasoek">给</span> <rp >(</rp><rt class="gentinum ruby">ki<sup>7</sup></rt><rp>)</rp> </ruby>
+<ruby> <span class="word gasoek">人</span> <rp >(</rp><rt class="gentinum ruby">nang<sup>5</sup></rt><rp>)</rp> </ruby>
+<ruby> <span class="word gasoek">堪</span> <rp >(</rp><rt class="gentinum ruby">kam<sup>1</sup></rt><rp>)</rp> </ruby>
+<ruby> <span class="word gasoek">酱</span> <rp >(</rp><rt class="gentinum ruby">jio<sup>2</sup></rt><rp>)</rp> </ruby>
+<ruby> <span class="word gasoek">油</span> <rp >(</rp><rt class="gentinum ruby">iu<sup>5</sup></rt><rp>)</rp> </ruby>

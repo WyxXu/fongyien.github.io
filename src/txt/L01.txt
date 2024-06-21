@@ -1,0 +1,8 @@
+<ruby> <span class="word gasoek">假</span> <rp >(</rp><rt class="gentinum ruby">gia<sup>3</sup></rt><rp>)</rp> </ruby>
+<ruby> <span class="word gasoek">鬼</span> <rp >(</rp><rt class="gentinum ruby">gui<sup>2</sup></rt><rp>)</rp> </ruby>
+<ruby> <span class="word gasoek">吃</span> <rp >(</rp><rt class="gentinum ruby">jia<sup>6</sup></rt><rp>)</rp> </ruby>
+<ruby> <span class="word gasoek">包</span> <rp >(</rp><rt class="gentinum ruby">bao<sup>1</sup></rt><rp>)</rp> </ruby>
+<ruby> <span class="word gasoek">萝</span> <rp >(</rp><rt class="gentinum ruby">lo<sup>5</sup></rt><rp>)</rp> </ruby>
+<ruby> <span class="word gasoek">虾</span> <rp >(</rp><rt class="gentinum ruby">he<sup>5</sup></rt><rp>)</rp> </ruby>
+
+

@@ -1,0 +1,3 @@
+<ruby> <span class="word gasoek">悲</span> <rp >(</rp><rt class="gentinum ruby">bui<sup>1</sup></rt><rp>)</rp> </ruby>
+<ruby> <span class="word gasoek">西</span> <rp >(</rp><rt class="gentinum ruby">sai<sup>1</sup></rt><rp>)</rp> </ruby>
+<ruby> <span class="word gasoek">风</span> <rp >(</rp><rt class="gentinum ruby">huang<sup>1</sup></rt><rp>)</rp> </ruby>

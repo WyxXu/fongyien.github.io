@@ -1,0 +1,4 @@
+<ruby> <span class="word gasoek">头</span> <rp >(</rp><rt class="gentinum ruby">thiu<sup>11</sup> </rt><rp>)</rp> </ruby>
+ <ruby> <span class="word gasoek">顶</span> <rp >(</rp><rt class="gentinum ruby">tang<sup>31</sup> </rt><rp>)</rp> </ruby>
+<ruby> <span class="word gasoek">插</span> <rp >(</rp><rt class="gentinum ruby">chhak<sup>2</sup></rt><rp>)</rp> </ruby>
+<ruby> <span class="word gasoek">禾</span> <rp >(</rp><rt class="gentinum ruby">vo<sup>11</sup></rt><rp>)</rp> </ruby>

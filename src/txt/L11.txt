@@ -1,0 +1,7 @@
+<ruby> <span class="word gasoek">人</span> <rp >(</rp><rt class="gentinum ruby">nang<sup>5</sup></rt><rp>)</rp> </ruby>
+<ruby> <span class="word gasoek">衰</span> <rp >(</rp><rt class="gentinum ruby">xue<sup>1</sup></rt><rp>)</rp> </ruby>
+<ruby> <span class="word gasoek">行</span> <rp >(</rp><rt class="gentinum ruby">hing<sup>5</sup></rt><rp>)</rp> </ruby>
+<ruby> <span class="word gasoek">路</span> <rp >(</rp><rt class="gentinum ruby">leu<sup>1</sup></rt><rp>)</rp> </ruby>
+<ruby> <span class="word gasoek">踢</span> <rp >(</rp><rt class="gentinum ruby">tag<sup>4</sup></rt><rp>)</rp> </ruby>
+<ruby> <span class="word gasoek">脚</span> <rp >(</rp><rt class="gentinum ruby">ka<sup>1</sup></rt><rp>)</rp> </ruby>
+<ruby> <span class="word gasoek">拇</span> <rp >(</rp><rt class="gentinum ruby">bho<sup>2</sup></rt><rp>)</rp> </ruby>

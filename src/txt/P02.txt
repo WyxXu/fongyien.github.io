@@ -1,0 +1,6 @@
+<ruby> <span class="word gasoek">口</span> <rp >(</rp><rt class="gentinum ruby">hau<sup>2</sup></rt><rp>)</rp> </ruby>
+<ruby> <span class="word gasoek">水</span> <rp >(</rp><rt class="gentinum ruby">seoi<sup>2</sup></rt><rp>)</rp> </ruby>
+<ruby> <span class="word gasoek">花</span> <rp >(</rp><rt class="gentinum ruby">faa<sup>1</sup></rt><rp>)</rp> </ruby>
+<ruby> <span class="word gasoek">喷</span> <rp >(</rp><rt class="gentinum ruby">pan<sup>3</sup></rt><rp>)</rp> </ruby>
+<ruby> <span class="word gasoek">喷</span> <rp >(</rp><rt class="gentinum ruby">pan<sup>3</sup></rt><rp>)</rp> </ruby>
+

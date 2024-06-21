@@ -1,0 +1,3 @@
+<ruby> <span class="word gasoek">刮</span> <rp >(</rp><rt class="gentinum ruby">kat<sup>5</sup> </rt><rp>)</rp> </ruby>
+ <ruby> <span class="word gasoek">着</span> <rp >(</rp><rt class="gentinum ruby">chhok<sup>5</sup> </rt><rp>)</rp> </ruby>
+<ruby> <span class="word gasoek">牯</span> <rp >(</rp><rt class="gentinum ruby">ku<sup>31</sup></rt><rp>)</rp> </ruby>

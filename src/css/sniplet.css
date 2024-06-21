@@ -1,0 +1,7 @@
+@media (any-hover: hover) {
+    a:hover {
+      color: blue;
+    }
+  }
+
+/* js ontouchstart和ontouchend 模拟 hover 效果 */

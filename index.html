@@ -1,0 +1,276 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- <meta http-equiv="Refresh" content="10" /> -->
+    <title>Document</title>
+    <script src="./src/js/htmx.js"></script>
+    <script src="./src/js/hyperscript.min.js"></script>
+    <script src="src/js/art-template.js"></script>
+    <script src="src/js/alpinejs.min.js"></script>
+    <script src="src/js/state-machine.js"></script>
+    <script src="src/js/localforage.min.js"></script>
+    <script src="src/js/mithril.js"></script>
+<!-- htmx plugins -->
+    <script src="src/js/htmx-class-tools.js"></script>
+    <script src="src/js/htmx-head-support.js"></script>
+    <script src="src/js/htmx-multi-swap.js"></script>
+    <script src="src/js/htmx-path-params.js"></script>
+    <script src="src/js/htmx-remove-me.js"></script>
+    <script src="src/js/htmx-response-targets.js"></script>
+    <script src="src/js/htmx-restored.js"></script>
+    <script src="src/js/htmx-ws.js"></script>
+    <script src="src/js/htmx-alpine-morph.js"></script>
+<!-- alpine plugins -->
+<script src="src/js/alpinejs.mask.min.js"></script> 
+<script src="src/js/alpinejs.intersect.min.js"></script>
+<script src="src/js/alpinejs.persist.min.js"></script>
+<script src="src/js/alpinejs.focus.min.js"></script>
+<script src="src/js/alpinejs.collapse.min.js"></script>
+<script src="src/js/alpinejs.anchor.min.js"></script>
+<script src="src/js/alpinejs.morph.min.js"></script>
+<script src="src/js/alpinejs.sort.min.js"></script>
+<script src="src/js/alpinejs.min.js"></script>
+
+
+<link rel="stylesheet" href="src/css/index.css">
+<link rel="stylesheet" href="src/css/layout.css">
+<link rel="stylesheet" href="src/font/GentiumPlus-webfont-example.css">
+
+
+<script src="src/js/index.js"></script>
+<style>
+  @font-face {
+      font-family: 'ChironSungHK';
+      src: url('src/font/ChironSungHKVF.ttf');
+      font-weight: normal;
+      font-style: normal;
+  }
+
+  @font-face {
+      font-family: 'ChironSungHK';
+      src: url('src/font/ChironSungHKVF.ttf');
+      font-weight: bold;
+      font-style: normal;
+  }
+
+  @font-face {
+    font-family: 'ChironHeiHK';
+    src: url('src/font/ChironHeiHKVF.ttf');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'ChironHeiHK';
+    src: url('src/font/ChironHeiHKVF.ttf');
+    font-weight: bold;
+    font-style: normal;
+}
+
+
+
+</style>
+</head>
+
+<body class="sans">
+  
+
+<div  id="screenmatte"  x-data="{show: true}" x-cloak x-show="show" _="on load go to top of me " @load.transition.duration.500ms="setTimeout(() => {show =false}, 500)">
+
+</div>
+
+<div id="headerCon">
+  <header> 
+    <div class="flex justify-center items-center top-nav q-mr-md">  
+     <img src="/src/logo.svg" alt="" id="logo">
+     <span id="title" class="sans serif" _="on click go to the top of body">岭南方言视觉化设计</span>    
+     <span id="tunnel">
+      <span _="on click remove .hidden from <#statiCon,#switcherCon,#fixedbottom /> then add .hidden to <#dynaCon /> then go to the top of <#statiCon /> -60px">有声插画</span>
+      <span 
+      _="on click remove .hidden from <#dynaCon,#switcherCon,#fixedbottom, #dynaCon .flexSon />  then add .hidden to <#statiCon /> then go to the top of <#dynaCon /> -60px">动态图</span>
+      <span><a href="#prods">周边</a></span>
+      <span><a href="/src/html/MeM24 Links.html">方言资源</a></span>   
+      <span><a href="#pjintro">关于</a></span>
+      <span><a href="#class">我们</a></span>     
+     </span>
+    </div>
+  </header>
+
+</div>
+
+<div id="intro">
+
+<div id="pjimgCon">
+  <img src="src/logo.svg" id="whole" alt="项目主题字" _="on load go to the top of me">
+  <img src="src/alla.png" id="allillus" alt="插画全家福">
+</div>
+
+  <h2 id="pjintro">项目简介</h2>
+  <p>
+    我们的毕业设计： <b>岭南方言视觉化</b>
+    旨在通过方言语汇的创意展现，与年轻人共鸣，诱发人们对方言的兴趣，从而鼓励更多人使用方言表达、记录，用设计的力量为方言保育作出贡献。
+  </p>
+  <p>
+    在插画画风的选择上，我们刻意采用了童化、漫画化的造型语言与色彩。越简单抽象，四个人的绘画输出越容易统一。摆脱写实桎梏也能为画面的趣味性提供创意空间。
+  </p>
+  <p>
+    画得"简单"还有一个好处：当观者看后觉得<i>“就这？我也能”</i> 而跃跃欲试时，我们以作品催生作品的目的就达到了
+    ——<i>既然你也能，那你也来画几张自己的方言吧</i>。
+  </p>
+
+
+
+
+</div>
+
+<div id="switcherCon" class="hidden">
+  <span class="langswitcher" id="langswitcherHaks" _="on click remove .hidden from <.flexSon /> then add .hidden to <.flexSon:has(figure:not([id^='H'])) /> "> 客家话</span>
+  <span class="langswitcher" id="langswitcherPaks" _="on click remove .hidden from <.flexSon /> then add .hidden to <.flexSon:has(figure:not([id^='P'])) />">白话</span>
+  <span class="langswitcher" id="langswitcherChongs" _="on click remove .hidden from <.flexSon /> then add .hidden to <.flexSon:has(figure:not([id^='C'])) />">漳州话</span>
+  <span class="langswitcher" id="langswitcherLuis" _="on click remove .hidden from <.flexSon /> then add .hidden to <.flexSon:has(figure:not([id^='L'])) />">雷州话</span>
+  <span class="langswitcher" id="langswitcherAll" _="on click remove .hidden from <.flexSon />">全部</span>
+  
+</div>
+
+
+
+<main>
+
+<!-- 有声插画 -->
+
+<div x-data="pics" class="flexCon hidden" id="statiCon">
+  <template x-for="item in alls">
+
+    <div class="flexSon shadow" _="on click go to the top of me -60px">
+
+      <figure x-bind:id="`${item}fig`">
+        <img class="illus" x-bind:src="`src/pic/${item}.png`" alt="illustration"
+          @click.stop.throttle.2000ms="playAudio(item)">
+        <audio x-bind:src="`src/aud/${item}.mp3`" x-ref="audio"></audio>
+      </figure>
+      <figcaption x-bind:hx-get="`src/txt/${item}.txt`" hx-trigger="load"  hx-swap="innerHTML">文本内容缺失</figcaption>
+      <div class="explain  items-center" x-bind:hx-get="`src/txt/explain/${item}.txt`" hx-trigger="load" hx-swap="innerHTML" >
+       </div>       
+    </div>    
+
+  </template>
+</div>
+
+<!-- 动态图 -->
+<div x-data="acts" class="flexCon hidden" id="dynaCon">
+  <template x-for="item in acts">
+    <div class="flexSon shadow gifs" _="on click go to the top of me -60px">
+      <figure x-bind:id="`${item}gif`">
+        <a x-bind:href="`#${item}fig`">
+        <img class="illus" x-bind:src="`src/act/gif/${item}.gif`" alt="gif" >
+      </a>
+      </figure>
+    </div>
+  </template>
+</div>
+
+</main>
+
+<div id="products">
+<h2 >周边</h2>
+<!-- 周边图 -->
+<div x-data="prods" class="flexCon" id="prods">   
+  <template x-for="item in prods">
+      <article class="flexSon">
+        <figure x-bind:id="`${item}fig`">
+      <img class="prods" x-bind:src="`/src/prods/${item}.png`"  hx-trigger="load"  alt="`prods:${item}`" >
+    </figure>   
+
+  </article>
+  </template>
+</div>
+</div>
+
+<center>
+
+<div id="fixedbottom" class="">
+    <nav id="innerfixedbottom" class="flex">
+      <span id="searchinput" >
+        <input type="text" id="searchInput" placeholder="输入搜索关键字">
+        <span onclick="searchAndScroll()">跳至下一结果</span>
+       </span>
+        
+      <span onclick="window.scrollTo({left:0,top: 0,behavior: 'smooth'});">到顶</span>
+      <span
+        onclick="window.scrollTo({left:0,top: document.documentElement.scrollHeight, behavior: 'smooth'  });">到底</span>
+      <span id="ScrollUp">上滾</span>
+      <span id="ScrollDn">下滾</span>  
+      <script>  
+        // 获取 <span> 元素
+        const scrollUp = document.getElementById('ScrollUp');
+        const scrollDown = document.getElementById('ScrollDn');
+        let scrollDirection = null; let scrollSpeed = 0;
+        
+        scrollUp.addEventListener('mouseenter', function () { startScroll('up', 5); });
+        scrollDown.addEventListener('mouseenter', function () { startScroll('down', 5); });
+  
+  
+        scrollUp.addEventListener('mouseleave', stopScroll);
+        scrollDown.addEventListener('mouseleave', stopScroll);
+  
+        function startScroll(direction, speed) {
+          scrollSpeed = speed;
+          scrollDirection = (direction === 'up') ? -scrollSpeed : scrollSpeed; scroll();
+        }
+  
+        function stopScroll() { scrollDirection = null; }
+        function scroll() { if (scrollDirection !== null) { window.scrollBy(0, scrollDirection); requestAnimationFrame(scroll); } }
+      </script>
+    </nav>
+  </div>
+</center>
+
+
+
+
+<footer>
+
+ 
+
+  <div id="class">
+    <h4>广州美术学院 城市学院&#x3000; 2022 级&#x3000;视传本科&#x20;5&#x20;班</h4>  
+  </div>
+
+
+
+
+<div class="us flex  flex-left">
+
+<div class="authors">
+<h3>李敏莉 </h3>
+<p>白话插画，版面设计</p>
+<p hx-get="src/txt/contact/pak.txt" hx-trigger="load" hx-swap="innerHTML" >联系方式</p>
+</div>
+
+<div class="authors">
+  <h3>陈月连</h3>
+<p>雷州话插画，主题字设计</p>
+<p hx-get="src/txt/contact/min-lui.txt" hx-trigger="load" hx-swap="innerHTML" >联系方式</p>
+</div>
+
+<div class="authors">
+  <h3>曾惠芬</h3>
+<p>漳州话插画</p>
+<p hx-get="src/txt/contact/min-chong.txt" hx-trigger="load" hx-swap="innerHTML" >联系方式</p>
+</div>
+
+<div class="authors">
+  <h3>Wyx</h3>
+  <p>客家话插画，超媒体制作</p>
+   <p hx-get="src/txt/contact/hakka.txt" hx-trigger="load" hx-swap="innerHTML" >联系方式</p>
+</div>
+
+</div>
+
+
+</footer>
+
+</body>
+</html>

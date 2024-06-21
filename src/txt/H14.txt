@@ -1,0 +1,4 @@
+<ruby> <span class="word gasoek">分</span> <rp >(</rp><rt class="gentinum ruby">fun<sup>31</sup> </rt><rp>)</rp> </ruby>
+ <ruby> <span class="word gasoek">柑</span> <rp >(</rp><rt class="gentinum ruby">kang<sup>35</sup> </rt><rp>)</rp> </ruby>
+<ruby> <span class="word gasoek">同</span> <rp >(</rp><rt class="gentinum ruby">thung<sup>11</sup></rt><rp>)</rp> </ruby>
+<ruby> <span class="word gasoek">味</span> <rp >(</rp><rt class="gentinum ruby">mui<sup>31</sup></rt><rp>)</rp> </ruby>
