@@ -23,7 +23,7 @@
     <script src="src/js/htmx-ws.js"></script>
     <script src="src/js/htmx-alpine-morph.js"></script>
 <!-- alpine plugins -->
-<script src="src/js/alpinejs.mask.min.js"></script> 
+<script src="src/js/alpinejs.mask.min.js"></script>
 <script src="src/js/alpinejs.intersect.min.js"></script>
 <script src="src/js/alpinejs.persist.min.js"></script>
 <script src="src/js/alpinejs.focus.min.js"></script>
@@ -75,29 +75,29 @@
 </head>
 
 <body class="sans">
-  
+
 
 <div  id="screenmatte"  x-data="{show: true}" x-cloak x-show="show" _="on load go to top of me " @load.transition.duration.500ms="setTimeout(() => {show =false}, 500)">
 
 </div>
 
 <div id="headerCon">
-  <header> 
-    <div class="flex justify-center items-center top-nav q-mr-md">  
+  <header>
+    <div class="flex justify-center items-center top-nav q-mr-md">
 
      <img src="/src/logo.svg" alt="" id="logo">
 
-     <span id="title" class="sans serif" _="on click go to the top of body">岭南方言视觉化设计</span>    
+     <span id="title" class="sans serif" _="on click go to the top of body">岭南方言视觉化设计</span>
 
      <span id="tunnel">
-      
+
       <span _="on click remove .hidden from <#statiCon,#switcherCon,#fixedbottom, #prods .flexSon /> then add .hidden to <#dynaCon /> then go to the top of <#statiCon /> -60px">有声插画</span>
-      <span 
+      <span
       _="on click remove .hidden from <#dynaCon,#switcherCon,#fixedbottom, #dynaCon .flexSon, #prods .flexSon />  then add .hidden to <#statiCon /> then go to the top of <#dynaCon /> -60px">动态图</span>
       <span><a href="#products">周边</a></span>
-      <span><a href="/src/html/MeM24 Links.html">方言资源</a></span>   
+      <span><a href="/src/html/MeM24 Links.html">方言资源</a></span>
       <span><a href="#pjintro">关于</a></span>
-      <span><a href="#class">我们</a></span>     
+      <span><a href="#class">我们</a></span>
 
      </span>
 
@@ -121,9 +121,9 @@
 
   <center>
     <div id="vidCon">
-    <video src="src/act/vid/客家话海报全览.mp4" id="glance" controls ></video>
+    <video src="src/act/vid/carousel.mp4" id="glance" controls loop></video>
   </div>
-  <figcaption>客家话插画总览</figcaption>  
+  <figcaption>插画总览（视频版）</figcaption>
   </center>
 
   <p>
@@ -136,11 +136,11 @@
 
   <h2 id="pjintro">如何写方言</h2>
 <p>
-  方言中有许多字词从未以书面形式记录，无法以其本字书写。即便在方言词典中，许多用字也缺乏考证依据。因此只能采用同音、近音字代替。为了弥补汉字不能准确表达方言发音的缺憾，  在此项目中，我们选用既有的成熟拼音方案为方言标注发音。其中，  客家话使用客语白话字（pha̍k va sṳ）、粤语使用香港语言学学会的粤语拼音方案（jyut6ping3）、漳州话使用台湾省指定的闽南语罗马字拼音方案（TL/Tâi-lô）、雷州话使用《雷州话字典》（蔡山桂）中的雷州话拼音方案。声调的标注则使用语言学家赵元任先生发明的五度标调法。
+  方言中有许多字词从未以书面形式记录，无法以其本字书写。即便在方言词典中，许多用字也缺乏考证依据。因此只能采用同音、近音字代替。为了弥补汉字不能准确表达方言发音的缺憾，  在此项目中，我们选用既有的成熟拼音方案为方言标注发音。其中，  客家话使用巴色差会制定的客语白话字（pha̍k va sṳ）、粤语使用香港语言学学会制定的粤语拼音方案（jyut6 ping3）、漳州话使用台湾省制定的闽南语罗马字拼音方案（TL/Tâi-lô）、雷州话使用《雷州话字典》中的雷州话拼音方案。声调的标注则使用语言学家赵元任先生发明的五度标调法。
 </p>
 <div id="romaCon">
-<img src="src/pic/roma/016.png" alt="">
-<img src="src/pic/roma/020.png" alt="">
+<!-- <img src="src/pic/roma/016.png" alt="">
+<img src="src/pic/roma/020.png" alt=""> -->
 <img src="src/pic/roma/024.png" alt="">
 <img src="src/pic/roma/026.png" alt="">
 <img src="src/pic/roma/027.png" alt="">
@@ -161,11 +161,11 @@
     var carousal = document.querySelector('.carousal');
     var carousalWidth = carousal.offsetWidth;
     var scrollAmount = 10; // 每次滚动的像素数
-    
+
     carousal.addEventListener('mousemove', function(event) {
       var mouseX = event.clientX - carousal.getBoundingClientRect().left;
       var halfWidth = carousalWidth / 2;
-    
+
       if (mouseX < halfWidth) {
         carousal.scrollLeft -= scrollAmount; // 向左滚动
       } else {
@@ -188,7 +188,7 @@
   <span class="langswitcher" id="langswitcherChongs" _="on click remove .hidden from <.flexSon /> then add .hidden to <.flexSon:has(figure:not([id^='C'])) />">漳州话</span>
   <span class="langswitcher" id="langswitcherLuis" _="on click remove .hidden from <.flexSon /> then add .hidden to <.flexSon:has(figure:not([id^='L'])) />">雷州话</span>
   <span class="langswitcher" id="langswitcherAll" _="on click remove .hidden from <.flexSon />">全部</span>
-  
+
 </div>
 
 
@@ -208,8 +208,8 @@
       </figure>
       <figcaption x-bind:hx-get="`src/txt/${item}.txt`" hx-trigger="load"  hx-swap="innerHTML">文本内容缺失</figcaption>
       <div class="explain  items-center" x-bind:hx-get="`src/txt/explain/${item}.txt`" hx-trigger="load" hx-swap="innerHTML" >
-       </div>       
-    </div>    
+       </div>
+    </div>
 
   </template>
 </div>
@@ -233,12 +233,12 @@
 <h2 >周边</h2>
 <p>系列插画可作为图案应用在T恤、帆布袋、鼠标垫、马克杯、饮品杯等等上，充当装饰的同时，也能作为方言识字教育器具。</p>
 <!-- 周边图 -->
-<div x-data="prods" class="flexCon" id="prods">   
+<div x-data="prods" class="flexCon" id="prods">
   <template x-for="item in prods">
       <article class="flexSon">
         <figure x-bind:id="`${item}fig`">
       <img class="prods" x-bind:src="`src/prods/${item}.png`"    alt="`prods:${item}`" >
-    </figure>   
+    </figure>
 
   </article>
   </template>
@@ -253,30 +253,30 @@
         <input type="text" id="searchInput" placeholder="输入搜索关键字">
         <span onclick="searchAndScroll()">跳至下一结果</span>
        </span>
-        
+
       <span onclick="window.scrollTo({left:0,top: 0,behavior: 'smooth'});">到顶</span>
       <span
         onclick="window.scrollTo({left:0,top: document.documentElement.scrollHeight, behavior: 'smooth'  });">到底</span>
       <span id="ScrollUp">上滾</span>
-      <span id="ScrollDn">下滾</span>  
-      <script>  
+      <span id="ScrollDn">下滾</span>
+      <script>
         // 获取 <span> 元素
         const scrollUp = document.getElementById('ScrollUp');
         const scrollDown = document.getElementById('ScrollDn');
         let scrollDirection = null; let scrollSpeed = 0;
-        
+
         scrollUp.addEventListener('mouseenter', function () { startScroll('up', 5); });
         scrollDown.addEventListener('mouseenter', function () { startScroll('down', 5); });
-  
-  
+
+
         scrollUp.addEventListener('mouseleave', stopScroll);
         scrollDown.addEventListener('mouseleave', stopScroll);
-  
+
         function startScroll(direction, speed) {
           scrollSpeed = speed;
           scrollDirection = (direction === 'up') ? -scrollSpeed : scrollSpeed; scroll();
         }
-  
+
         function stopScroll() { scrollDirection = null; }
         function scroll() { if (scrollDirection !== null) { window.scrollBy(0, scrollDirection); requestAnimationFrame(scroll); } }
       </script>
@@ -289,10 +289,10 @@
 
 <footer>
 
- 
+
 
   <div id="class">
-    <h4>广州美术学院 城市学院&#x3000; 2022 级&#x3000;视传本科&#x20;5&#x20;班</h4>  
+    <h4>广州美术学院 城市学院&#x3000; 2022 级&#x3000;视传本科&#x20;5&#x20;班</h4>
   </div>
 
 

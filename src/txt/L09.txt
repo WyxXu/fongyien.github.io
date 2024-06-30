@@ -1,5 +1,4 @@
-<ruby> <span class="word gasoek">放</span> <rp >(</rp><rt class="gentinum ruby">bang<sup>3</sup></rt><rp>)</rp> </ruby>
-<ruby> <span class="word gasoek">尿</span> <rp >(</rp><rt class="gentinum ruby">yo<sup>1</sup></rt><rp>)</rp> </ruby>
-<ruby> <span class="word gasoek">揾</span> <rp >(</rp><rt class="gentinum ruby">bhieng<sup>6</sup></rt><rp>)</rp> </ruby>
-<ruby> <span class="word gasoek">鼻</span> <rp >(</rp><rt class="gentinum ruby">pi<sup>1</sup></rt><rp>)</rp> </ruby>
-<ruby> <span class="word gasoek">死</span> <rp >(</rp><rt class="gentinum ruby">xi<sup>2</sup></rt><rp>)</rp> </ruby>
+<ruby> <span class="word gasoek">做</span> <rp >(</rp><rt class="gentinum ruby">zo<sup>7</sup></rt><rp>)</rp> </ruby>
+<ruby> <span class="word gasoek">截</span> <rp >(</rp><rt class="gentinum ruby">zoi<sup>6</sup></rt><rp>)</rp> </ruby>
+<ruby> <span class="word gasoek">寡</span> <rp >(</rp><rt class="gentinum ruby">gua<sup>5</sup></rt><rp>)</rp> </ruby>
+
